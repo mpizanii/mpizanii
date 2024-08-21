@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Matheus Pizani and I'm from Distrito Federal, Brazil</p>
+<p align="left">My name is Matheus Pizani and I'm from Distrito Federal, Brazil!</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">💻 Computer Science Student at the University Center of Brasília - CEUB<br>📚 Studying Python and MySQL</p>
+<p align="left">💻 Computer Science Student at the University Center of Brasília. - CEUB<br>📚 Studying Python and MySQL.</p>
 
 ###
 
