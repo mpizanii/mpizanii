@@ -3,8 +3,9 @@
 
 ###
 
-<p align="left">My name is Matheus Pizani and I'm from Distrito Federal, Brazil!</p>
-
+- My name is Matheus Pizani and I'm from Distrito Federal, Brazil!
+- Here you will find some of my projects.
+- Contact me in **mpizani28@gmail.com**.
 ###
 
 <h2 align="left">About me</h2>
