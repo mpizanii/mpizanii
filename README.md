@@ -6,6 +6,9 @@
 - My name is Matheus Pizani and I'm a Fullstack Developer!
 - Here you will find some of my projects.
 - Contact me in **mpizani28@gmail.com**.
+- My portfolio: [Portfolio](https://matheus-pizani.netlify.app/)
+
+  
 ###
 
 <h2 align="left">About me</h2>
@@ -37,7 +40,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="mysql logo"  />
   <img width="12" />
 </div>
 
