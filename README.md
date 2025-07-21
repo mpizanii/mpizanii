@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor FullStack na CrazyTechLabs e estudante de Ciência da Computação no Centro Universitáio de Brasília - CEUB<br>📚 Tenho uma paixão por desenvolvimento e automação.</p>
+<p align="left">💻 Desenvolvedor FullStack na CrazyTechLabs e estudante de Ciência da Computação no Centro Universitário de Brasília - CEUB<br>📚 Tenho uma paixão por desenvolvimento e automação.</p>
 
 ###
 
