@@ -3,7 +3,7 @@
 
 ###
 
-- Meu nome é Matheus Pizani e sou Desenvolvedor FullStack!
+- Desenvolvedor FullStack com foco no Backend!
 - Aqui você encontrará alguns dos meus projetos.
 - Entre em contato comigo em: **mpizani28@gmail.com**.
 - Meu portfólio: [Portfólio](https://matheus-pizani.netlify.app/)
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor FullStack na CrazyTechLabs e estudante de Ciência da Computação no Centro Universitário de Brasília - CEUB<br>📚 Tenho uma paixão por desenvolvimento e automação.</p>
+<p align="left">💻 Desenvolvedor FullStack e estudante de Ciência da Computação no Centro Universitário de Brasília - CEUB<br>📚 Tenho uma paixão por desenvolvimento e automação.</p>
 
 ###
 
