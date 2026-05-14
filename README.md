@@ -3,7 +3,7 @@
 
 ###
 
-- Engenheiro de software com foco no backend!
+- Engenheiro de software full stack!
 - Aqui você encontrará alguns dos meus projetos.
 - Entre em contato comigo em: **mpizani28@gmail.com**.
 - Meu portfólio: [Portfólio](https://matheus-pizani.netlify.app/)
