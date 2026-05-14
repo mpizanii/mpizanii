@@ -9,15 +9,6 @@
 - Meu portfólio: [Portfólio](https://matheus-pizani.netlify.app/)
 - Meu linkedin: [Linkedin](https://www.linkedin.com/in/pizanimatheus/)
 
-  
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">💻 Desenvolvedor Backend e estudante de Ciência da Computação no Centro Universitário de Brasília - CEUB<br>📚 Tenho uma paixão por desenvolvimento e automação.</p>
-
 ###
 
 <h2 align="left">Tecnologias que uso</h2>
